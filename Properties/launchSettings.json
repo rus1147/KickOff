@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KickOffVariante1": {
+      "commandName": "Project",
+      "commandLineArgs": "shortformat"
+    }
+  }
+}
